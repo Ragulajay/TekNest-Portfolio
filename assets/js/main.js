@@ -28,6 +28,3 @@ function linkAction(){
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 
-function resetForm() {
-      document.getElementById("contactForm").reset();
-    }
