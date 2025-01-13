@@ -393,7 +393,7 @@ img {
 }
 
 
-.work_img:hovers {
+.work_img:hover {
   transform: scale(1.1);
 }
 
